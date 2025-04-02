@@ -1,12 +1,13 @@
 # custom
 **/.DS_Store
 data/
-src/pipeline
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+**.zip
+**.png
 
 # C extensions
 *.so
